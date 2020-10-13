@@ -4,7 +4,7 @@ Template para crear aplicaciones usando Webpack.
 
 ### Notas
 
-1. Reconstruir los módulos de Node (node_modules)
+1. Reconstruir los módulos de Node (node_modules):
 ```
 npm install
 ```
